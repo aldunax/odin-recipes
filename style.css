@@ -1,0 +1,26 @@
+body {
+    color: #2b0000;
+    background-color: #ffffda;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+a:link {
+    color: #00008b
+}
+
+a:visited {
+    color: #550055
+}
+
+.recipe-img {
+    border: 5px solid;
+    border-radius: 8px;
+    max-height: 350px;
+    height: auto;
+    width: auto;
+}
+
+.index-list li {
+    font-size: larger;
+    font-weight: bold;
+}
